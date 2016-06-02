@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Masaki here, I like cucumber.
+However, I prefer sushi to cucumber.
